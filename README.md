@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá, aventureiro
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Manelloth=anuraghazra)](https://github.com/Manelloth/github-readme-stats)
+
 
 <!--
 **Manelloth/Manelloth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
