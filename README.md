@@ -8,6 +8,8 @@ Posteriormente, ganhei um computador e essa magia bateu novamente quando iniciei
 
 Hoje em dia ainda gosto de revirar uns códigos pra entender seu funcionamento, gosto de editar uns videos para meu canal do [Youtube](https://www.youtube.com/@AbKunGames/), escrever análises em meu [Curador da Steam](https://store.steampowered.com/curator/39939770-AbKun/) e pegar conquistas em [jogos antigos](https://retroachievements.org/user/AbKun) e [modernos](https://completionist.me/steam/profile/76561198034776999).
 
+Meu GitHub ainda está parado, mas vou tentar movimentar mais.
+
 ## Meus Links :
 
 <div style="display: inline-block">
