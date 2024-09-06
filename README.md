@@ -1,6 +1,7 @@
 ### Olá, aventureiro
 
-Estudante de Sistemas de Informação, peguei gosto pela área de desenvolvimento desde cedo, graças aos jogos. 
+Sistemas de Informação,
+peguei gosto pela área de desenvolvimento desde cedo graças aos jogos. 
 
 Quando liguei meu Dynavision pela primeira vez e iniciei o clássico Castlevania, automaticamente pensei 'Como é possível estar controlando esse personagem?' Ali ainda era um mistério, mas já estava disposto a entender como aquilo funcionava. 
 
